@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with CloudEQ as a DevOps Engineer.<br>👯 I’m looking to collaborate on any good Projects.<br>🌱 I’m currently preparing for CKA and CkAD.<br>📫 How to reach me: https://www.linkedin.com/in/abhimanyu-sharma-31024a195/<br>💬 Ask me about DevOps Tools, Cloud Computing, Java, Python, and Digital Marketing.<br>⚡ Fun fact: Like to play cricket and chess
+🔭 I’m currently working with CloudEQ as a DevOps Engineer.<br>👯 I’m looking to collaborate on any good Projects.<br>🌱 I’m currently preparing for CKA and CkAD.<br>📫 How to reach me:% https://www.linkedin.com/  %/<br>💬 Ask me about DevOps Tools, Cloud Computing, Java, Python, and Digital Marketing.<br>⚡ Fun fact: Like to play cricket and chess
 
 
 ## 🌐 Socials:
